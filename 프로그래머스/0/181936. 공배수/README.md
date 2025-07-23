@@ -1,10 +1,10 @@
 # [level 0] 공배수 - 181936 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181936) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181936?language=java) 
 
 ### 성능 요약
 
-메모리: 9.23 MB, 시간: 0.00 ms
+메모리: 91 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 03월 27일 00:59:39
+2025년 07월 24일 01:20:03
 
 ### 문제 설명
 
